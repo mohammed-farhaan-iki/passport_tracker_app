@@ -1,6 +1,5 @@
-pytesseract
-opencv-python
-Pillow
-gspread
-oauth2client
 streamlit
+pytesseract
+pillow
+pdf2image
+requests
